@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "473423109710",
+    "firebase_url": "https://remedial-temp.firebaseio.com",
+    "project_id": "remedial-temp",
+    "storage_bucket": "remedial-temp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473423109710:android:a298bbfe836e298a072d1f",
+        "android_client_info": {
+          "package_name": "com.example.remedial_20"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473423109710-8qc7ticm8lvtk12vf3hoagfu6kca6isq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.remedial_20",
+            "certificate_hash": "9550f08e92dbe59fdd5fe2fd59a2d0a5f060cdbf"
+          }
+        },
+        {
+          "client_id": "473423109710-aqn16s23bjgvlj9nlond7s2bfrfi6k2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDc184U5uwLovYNYB8sxsHhRgLM6RTVDM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473423109710-aqn16s23bjgvlj9nlond7s2bfrfi6k2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
